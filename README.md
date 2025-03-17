@@ -16,7 +16,7 @@ A modern, responsive, and interactive media gallery built with Next.js and Frame
 
 ## Demo
 
-Check out the live demo: [Bento Gallery Demo](https://github.com/abhishekabysm/glowing-effect)
+Check out the live demo: [Bento Gallery Demo](https://bento-gallery-cd.vercel.app/)
 
 ## Installation
 
